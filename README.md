@@ -13,5 +13,5 @@ classDiagram
     - buttonBlue: String
   }
 
-  User *--|> Feature
+  User "1" *--|> "1" Feature
 ```
